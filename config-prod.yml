@@ -1,1 +1,3 @@
 username: springcloud-prod
+config:
+  info: "master branch,springcloud-config/config-prod.yml version=1"
